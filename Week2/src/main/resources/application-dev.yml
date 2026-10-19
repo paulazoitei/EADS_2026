@@ -1,0 +1,5 @@
+app:
+  data:
+    file: classpath:data/people-dev.csv
+    format: csv
+    enabled: true

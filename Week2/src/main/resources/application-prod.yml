@@ -1,0 +1,5 @@
+app:
+  data:
+    file: classpath:data/people-prod.json
+    format: json
+    enabled: true
